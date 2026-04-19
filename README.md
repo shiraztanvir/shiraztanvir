@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @shiraztanvir
-- 👀 I’m interested in Data Science, AI and Blockchain Technology 
-- 🌱 I’m currently learning Data Science,AI. I have also learned Solidity
-- 💞️ I’m looking to Data Science, AI and Smart Contract Projects
-- 📫 How to reach me www.twitter.com/shiraz_tanvir - shiraztanvir@gmail.com https://www.linkedin.com/in/shiraz-tanvir-045234236/
+Hi, I'm Shiraz Tanvir 👋
+I bridge the gap between Financial Markets and Cutting-Edge Technology. By day, I navigate the complexities of Money Markets; by night, I build AI-powered solutions and explore the future of decentralized finance.
 
-<!---
-shiraztanvir/shiraztanvir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Professional Focus
+FinTech: Leveraging AI to optimize financial analysis and trading workflows.
+
+AI Architecture: Developing intelligent agents for news aggregation and stock brokerage applications.
+
+Blockchain: Building secure smart contracts to redefine transactional trust.
+
+Entrepreneurship: Founder of PowerTechAI.
